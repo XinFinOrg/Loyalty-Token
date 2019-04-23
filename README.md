@@ -1,4 +1,4 @@
-# Loyalty-Token
+# Setup blockchain based loyalty dApp or Setup blockchain based Reward System
 
 **How to Set Up Loyalty Tokens on the XinFin Network**
 
