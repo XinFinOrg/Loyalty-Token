@@ -1,11 +1,15 @@
 # Loyalty-Token
-**How to set up loyalty token on XinFin.Network**
 
-**Step 1**: Create and Deploy Loyalty Smart Contract and Deploy on Public network.
+**How to Set Up Loyalty Tokens on the XinFin Network**
 
-Goto: https://mycontract.co/ and create Loyalty Token (Token Contract) After Entering Detail like: Token Name, Token Symbol and Total Token Supply. 
+Need to set up a blockchain loyalty app but find the whole thing confusing? You're not alone. We created this guide to setting up a loyalty token on our blockchain loyalty platform to make life that little bit easier for our clients. 
 
-Note: After Creating Token Contract then Deploy to XinFin Network and Download Private Key and store at safe place Without a doubt, the safest way to store any Private Key is using a paper wallet. 
+
+**Setting up a Blockchain Loyalty App – A Step-By-Step Guide**
+
+**Step 1**: Visit [My Contract](https://MyContract.co) and set up your own Smart Contract. You can define the terms of your Loyalty Token Contract and enter all the details that you want to include, such as the name, symbol and total amount of tokens you would like supplied. Make sure you deploy the contract on the public XinFin Network. 
+
+Once the token has been both created and deployed on the public network you should download your own private key and store it in a safe place. We advise you to store your private key using a paper wallet, arguably the safest way to ensure its security.
 
 
 **Step 2**: Setup XinFin Full node to get Full control over your Private key and Data backup. 
