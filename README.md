@@ -2,7 +2,7 @@
 
 **How to Set Up Loyalty Tokens on the XinFin Network**
 
-Need to set up a blockchain loyalty app but find the whole thing confusing? You're not alone. We created this guide to setting up a loyalty token on our blockchain loyalty platform to make life that little bit easier for our clients. 
+Need to set up a blockchain loyalty app but find the whole thing confusing? You're not alone. We created this guide to setting up a loyalty token on our blockchain loyalty platform to make life that little bit easier for our community. 
 
 
 **Setting up a Blockchain Loyalty App – A Step-By-Step Guide**
