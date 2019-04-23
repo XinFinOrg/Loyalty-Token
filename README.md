@@ -12,20 +12,16 @@ Need to set up a blockchain loyalty app but find the whole thing confusing? You'
 Once the token has been both created and deployed on the public network you should download your own private key and store it in a safe place. We advise you to store your private key using a paper wallet, arguably the safest way to ensure its security.
 
 
-**Step 2**: Setup XinFin Full node to get Full control over your Private key and Data backup. 
-
-Follow step and setup XinFin Full Node :- https://github.com/XinFinOrg/XinFin-Node
+**Step 2**: Setup the [XinFin Full node](https://github.com/XinFinOrg/XinFin-Node) to gain total control over both your private key and your data backup abilities.
 
 
 **Step 3**: Install Dependencies. 
-Download [Nodejs and npm](https://docs.npmjs.com/getting-started/installing-node "Nodejs install") if you don't have them
-
-Install dependencies:
+This step involves installing your dependencies. For this you will need to download and install [Nodejs and npm](https://docs.npmjs.com/getting-started/installing-node "Nodejs install") if you do not already have them. The code you will need to install the dependencies is as follows:
 
 `npm install xdc3@1.0.0-beta.41`
 
 
-**Step 4**: Dowlonad Ready Script File, Learn API Command to Manage Loyalty Loken with your ERP/CRM System: 
+**Step 4**: Download the ready script file then teach the API Command to Manage your Loyalty Tokens with your ERP/CRM system
 
 e.g. `node Token_Transfer.js RPC_IP RPC_Port from_address to_address amount contract_address private_key decimals`
 
