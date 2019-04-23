@@ -31,9 +31,13 @@ Execute XRC20 Transfer :
 **Other Useful Command**
 
 eth.estimateGas
+
 eth.getGasPrice
+
 eth.getTransactionCount
+
 eth.accounts.signTransaction
+
 eth.sendSignedTransaction
 
 Ref Link: https://github.com/ethereum/wiki/wiki/JavaScript-API
