@@ -58,3 +58,12 @@ Public discussions on the technical issues. Please Join Below mention Public Cha
 [Telegram Chat](http://bit.do/Telegram-XinFinDev), 
 
 [Forum](https://xinfin.net)
+
+
+
+## Contributing
+If you have any questions, suggestions, or trouble while using Loyalty Token, feel free to open an issue. Your information will help team to make the product better.
+
+- If you find bug or crash, you can create [issue](https://github.com/XinFinOrg/Loyalty-Token/issues/new)
+- If you have any idea or suggestion to the application, we can [make a discussion](https://github.com/XinFinOrg/Loyalty-Token/issues/new)
+- For other questions, [please ask](https://github.com/XinFinOrg/Loyalty-Token/issues/new)
