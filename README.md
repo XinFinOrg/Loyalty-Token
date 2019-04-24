@@ -18,10 +18,14 @@ Once the token has been both created and deployed on the public network you shou
 **Step 3**: Install Dependencies. 
 This step involves installing your dependencies. For this you will need to download and install [Nodejs and npm](https://docs.npmjs.com/getting-started/installing-node "Nodejs install") if you do not already have them. The code you will need to install the dependencies is as follows:
 
+**Step 4**: Install Dependencies. 
+
+`git clone https://github.com/XinFinOrg/Loyalty-Token & cd Loyalty-Token`
+
 `npm install xdc3@1.0.0-beta.41`
 
 
-**Step 4**: Download the ready script file then teach the API Command to Manage your Loyalty Tokens with your ERP/CRM system
+**Step 5**: Use ready script file then teach the API Command to Manage your Loyalty Tokens with your ERP/CRM system
 
 e.g. `node Token_Transfer.js RPC_IP RPC_Port from_address to_address amount contract_address private_key decimals`
 
